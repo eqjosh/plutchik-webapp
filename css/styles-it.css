@@ -120,9 +120,10 @@
     fill: #FFFFFF;
 }
 
-/*.intermediate-emotion-container:hover > .intermediate-letter {
-    fill: red;
-}*/
+/* Intermediate emotion hover - change letter color on hover */
+.emotion-container:hover > g > .intermediate-letter {
+    fill: #FFFFFF;
+}
 
 .intermediate-word-bounding-box {
     fill: #FFFFFF;
