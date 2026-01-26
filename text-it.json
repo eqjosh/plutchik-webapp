@@ -2,7 +2,7 @@
     "accettazione": {
         "petal-color": "#8ac650",
         "color": "#cadf8b",
-        "intensity": "low",
+        "intensity": "bassa",
         "+intense": "fiducia",
         "opposite": "noia",
         "similar-words": "Aperto, Accogliente",
@@ -13,9 +13,9 @@
     "ammirazione": {
         "petal-color": "#8ac650",
         "color": "#8ac650",
-        "intensity": "high",
+        "intensity": "alta",
         "-intense": "fiducia",
-        "opposite": "odio",
+        "opposite": "ripugnanza",
         "similar-words": "Connesso, Orgoglioso",
         "sensations": "Brillante",
         "message": "Voglio sostenere la persona o la cosa",
@@ -24,7 +24,7 @@
     "stupore": {
         "petal-color": "#0099cd",
         "color": "#0099cd",
-        "intensity": "high",
+        "intensity": "alta",
         "-intense": "sorpresa",
         "opposite": "vigilanza",
         "similar-words": "Ispirato, Meravigliato",
@@ -35,7 +35,7 @@
     "rabbia": {
         "petal-color": "#f05b61",
         "color": "#f2736d",
-        "intensity": "medium",
+        "intensity": "media",
         "+intense": "collera",
         "-intense": "irritazione",
         "opposite": "paura",
@@ -47,7 +47,7 @@
     "irritazione": {
         "petal-color": "#f05b61",
         "color": "#f48d80",
-        "intensity": "low",
+        "intensity": "bassa",
         "+intense": "rabbia",
         "opposite": "apprensione",
         "similar-words": "Frustrato, Irritabile",
@@ -58,7 +58,7 @@
     "aspettativa": {
         "petal-color": "#f6923d",
         "color": "#f9ad66",
-        "intensity": "medium",
+        "intensity": "media",
         "+intense": "vigilanza",
         "-intense": "interesse",
         "opposite": "sorpresa",
@@ -70,7 +70,7 @@
     "apprensione": {
         "petal-color": "#00a551",
         "color": "#7ac698",
-        "intensity": "low",
+        "intensity": "bassa",
         "+intense": "paura",
         "opposite": "irritazione",
         "similar-words": "Preoccupato, Ansioso",
@@ -81,7 +81,7 @@
     "noia": {
         "petal-color": "#8973b3",
         "color": "#b9aad3",
-        "intensity": "low",
+        "intensity": "bassa",
         "+intense": "disgusto",
         "opposite": "accettazione",
         "similar-words": "Stanco, Non interessato",
@@ -92,7 +92,7 @@
     "disgusto": {
         "petal-color": "#8973b3",
         "color": "#a390c4",
-        "intensity": "medium",
+        "intensity": "media",
         "+intense": "odio",
         "-intense": "noia",
         "opposite": "fiducia",
@@ -104,7 +104,7 @@
     "distrazione": {
         "petal-color": "#0099cd",
         "color": "#89c7e4",
-        "intensity": "low",
+        "intensity": "bassa",
         "+intense": "sorpresa",
         "opposite": "interesse",
         "similar-words": "Disperso, Incerto",
@@ -115,7 +115,7 @@
     "estasi": {
         "petal-color": "#ffca05",
         "color": "#ffca05",
-        "intensity": "high",
+        "intensity": "alta",
         "-intense": "gioia",
         "opposite": "angoscia",
         "similar-words": "Deliziato, Euforico",
@@ -126,7 +126,7 @@
     "paura": {
         "petal-color": "#00a551",
         "color": "#30b575",
-        "intensity": "medium",
+        "intensity": "media",
         "+intense": "terrore",
         "-intense": "apprensione",
         "opposite": "rabbia",
@@ -138,7 +138,7 @@
     "angoscia": {
         "petal-color": "#2983c5",
         "color": "#2983c5",
-        "intensity": "high",
+        "intensity": "alta",
         "-intense": "tristezza",
         "opposite": "estasi",
         "similar-words": "Col cuore spezzato, Affranto",
@@ -149,7 +149,7 @@
     "interesse": {
         "petal-color": "#f6923d",
         "color": "#fcc487",
-        "intensity": "low",
+        "intensity": "bassa",
         "+intense": "aspettativa",
         "opposite": "distrazione",
         "similar-words": "Aperto, Osservando",
@@ -160,7 +160,7 @@
     "gioia": {
         "petal-color": "#ffca05",
         "color": "#ffdc7b",
-        "intensity": "medium",
+        "intensity": "media",
         "+intense": "estasi",
         "-intense": "serenità",
         "opposite": "tristezza",
@@ -169,10 +169,10 @@
         "message": "La vita sta andando bene",
         "purpose": "Accende creatività, connessione, dà energia"
     },
-    "odio": {
+    "ripugnanza": {
         "petal-color": "#8973b3",
         "color": "#8973b3",
-        "intensity": "high",
+        "intensity": "alta",
         "-intense": "disgusto",
         "opposite": "ammirazione",
         "similar-words": "Disturbato, Inorridito",
@@ -183,7 +183,7 @@
     "pensierosità": {
         "petal-color": "#2983c5",
         "color": "#a0c0e5",
-        "intensity": "low",
+        "intensity": "bassa",
         "+intense": "tristezza",
         "opposite": "serenità",
         "similar-words": "Triste, Infelice",
@@ -194,7 +194,7 @@
     "collera": {
         "petal-color": "#f05b61",
         "color": "#f05b61",
-        "intensity": "high",
+        "intensity": "alta",
         "-intense": "rabbia",
         "opposite": "terrore",
         "similar-words": "Sopraffatto, Furioso",
@@ -205,7 +205,7 @@
     "tristezza": {
         "petal-color": "#2983c5",
         "color": "#74a8da",
-        "intensity": "medium",
+        "intensity": "media",
         "+intense": "angoscia",
         "-intense": "pensierosità",
         "opposite": "gioia",
@@ -217,7 +217,7 @@
     "serenità": {
         "petal-color": "#ffca05",
         "color": "#ffed9f",
-        "intensity": "low",
+        "intensity": "bassa",
         "+intense": "gioia",
         "opposite": "pensierosità",
         "similar-words": "Calmo, Pacifico",
@@ -228,7 +228,7 @@
     "sorpresa": {
         "petal-color": "#0099cd",
         "color": "#36aed7",
-        "intensity": "medium",
+        "intensity": "media",
         "+intense": "stupore",
         "-intense": "distrazione",
         "opposite": "aspettativa",
@@ -240,7 +240,7 @@
     "terrore": {
         "petal-color": "#00a551",
         "color": "#00a551",
-        "intensity": "high",
+        "intensity": "alta",
         "-intense": "paura",
         "opposite": "collera",
         "similar-words": "Allarmato, Pietrificato",
@@ -251,7 +251,7 @@
     "fiducia": {
         "petal-color": "#8ac650",
         "color": "#abd26a",
-        "intensity": "medium",
+        "intensity": "media",
         "+intense": "ammirazione",
         "-intense": "accettazione",
         "opposite": "disgusto",
@@ -263,7 +263,7 @@
     "vigilanza": {
         "petal-color": "#f6923d",
         "color": "#f6923d",
-        "intensity": "high",
+        "intensity": "alta",
         "-intense": "aspettativa",
         "opposite": "stupore",
         "similar-words": "Intenso, Concentrato",

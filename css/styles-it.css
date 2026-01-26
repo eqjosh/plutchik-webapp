@@ -1,8 +1,8 @@
 /* These classes are defined by the SVG stuff. */
 .cls-1,.cls-2,.cls-3,.cls-48{fill:none;}
 .cls-1{stroke:#b2b4b7;stroke-dasharray:6 4;}
-.cls-1,.disgusto-color,.cls-11,.accettazione-color,.fiducia-color,.gioia-color,.cls-15,.apprensione-color,.paura-color,.cls-18,.serenità-color,.cls-2,.cls-20,.pensierosità-color,.tristezza-color,.cls-24,.irritazione-color,.rabbia-color,.cls-27,.cls-28,.distrazione-color,.cls-3,.sorpresa-color,.estasi-color,.odio-color,.ammirazione-color,.angoscia-color,.terrore-color,.cls-4,.vigilanza-color,.stupore-color,.collera-color,.cls-43,.cls-44,.cls-45,.cls-46,.cls-47,.cls-49,.cls-5,.cls-50,.cls-51,.cls-52,.cls-53,.cls-54,.cls-55,.cls-56,.cls-57,.interesse-color,.aspettativa-color,.cls-8,.noia-color{stroke-width:0.5px;}
-.disgusto-color,.cls-11,.accettazione-color,.fiducia-color,.gioia-color,.cls-15,.apprensione-color,.paura-color,.cls-18,.serenità-color,.cls-2,.cls-20,.pensierosità-color,.tristezza-color,.cls-24,.irritazione-color,.rabbia-color,.cls-27,.cls-28,.distrazione-color,.sorpresa-color,.estasi-color,.odio-color,.ammirazione-color,.angoscia-color,.terrore-color,.cls-4,.vigilanza-color,.stupore-color,.collera-color,.cls-43,.cls-44,.cls-45,.cls-46,.cls-47,.cls-49,.cls-5,.cls-50,.cls-51,.cls-52,.cls-53,.cls-54,.cls-55,.cls-56,.cls-57,.interesse-color,.aspettativa-color,.cls-8,.noia-color{stroke:#231f20;}
+.cls-1,.disgusto-color,.cls-11,.accettazione-color,.fiducia-color,.gioia-color,.cls-15,.apprensione-color,.paura-color,.cls-18,.serenità-color,.cls-2,.cls-20,.pensierosità-color,.tristezza-color,.cls-24,.irritazione-color,.rabbia-color,.cls-27,.cls-28,.distrazione-color,.cls-3,.sorpresa-color,.estasi-color,.ripugnanza-color,.ammirazione-color,.angoscia-color,.terrore-color,.cls-4,.vigilanza-color,.stupore-color,.collera-color,.cls-43,.cls-44,.cls-45,.cls-46,.cls-47,.cls-49,.cls-5,.cls-50,.cls-51,.cls-52,.cls-53,.cls-54,.cls-55,.cls-56,.cls-57,.interesse-color,.aspettativa-color,.cls-8,.noia-color{stroke-width:0.5px;}
+.disgusto-color,.cls-11,.accettazione-color,.fiducia-color,.gioia-color,.cls-15,.apprensione-color,.paura-color,.cls-18,.serenità-color,.cls-2,.cls-20,.pensierosità-color,.tristezza-color,.cls-24,.irritazione-color,.rabbia-color,.cls-27,.cls-28,.distrazione-color,.sorpresa-color,.estasi-color,.ripugnanza-color,.ammirazione-color,.angoscia-color,.terrore-color,.cls-4,.vigilanza-color,.stupore-color,.collera-color,.cls-43,.cls-44,.cls-45,.cls-46,.cls-47,.cls-49,.cls-5,.cls-50,.cls-51,.cls-52,.cls-53,.cls-54,.cls-55,.cls-56,.cls-57,.interesse-color,.aspettativa-color,.cls-8,.noia-color{stroke:#231f20;}
 .cls-3{stroke:#fff;}
 .cls-4{fill:#00b3f0;}
 .cls-5{fill:#ffdeb5;}
@@ -33,7 +33,7 @@
 .cls-33,.cls-56{fill:#f9baae;}
 .cls-34{fill:#f59284;}
 .estasi-color{fill:#ffca05;}
-.odio-color{fill:#8973b3;}
+.ripugnanza-color{fill:#8973b3;}
 .ammirazione-color{fill:#8ac650;}
 .angoscia-color{fill:#2983c5;}
 .terrore-color{fill:#00a551;}
