@@ -5,10 +5,10 @@
         "intensity": "bassa",
         "+intense": "fiducia",
         "opposite": "noia",
-        "similar-words": "Aperto, Accogliente",
-        "sensations": "Pacifico",
-        "message": "Siamo in questo insieme",
-        "purpose": "Creare relazioni, comunità"
+        "similar-words": "Apertura",
+        "sensations": "Sono disposto a sentire ed esplorare",
+        "message": "Va bene così",
+        "purpose": "Essere in contatto con la realtà"
     },
     "ammirazione": {
         "petal-color": "#8ac650",
@@ -16,10 +16,10 @@
         "intensity": "alta",
         "-intense": "fiducia",
         "opposite": "ripugnanza",
-        "similar-words": "Connesso, Orgoglioso",
-        "sensations": "Brillante",
-        "message": "Voglio sostenere la persona o la cosa",
-        "purpose": "Rafforzare l'impegno verso la persona o l'idea"
+        "similar-words": "Adorazione",
+        "sensations": "Il mio cuore si espande",
+        "message": "Sono così impressionato da questa persona o cosa",
+        "purpose": "Ispirarmi a essere migliore o fare di più"
     },
     "stupore": {
         "petal-color": "#0099cd",
@@ -27,10 +27,10 @@
         "intensity": "alta",
         "-intense": "sorpresa",
         "opposite": "vigilanza",
-        "similar-words": "Ispirato, Meravigliato",
-        "sensations": "Cuore che si ferma",
-        "message": "Qualcosa è totalmente inaspettato",
-        "purpose": "Ricordare questo momento"
+        "similar-words": "Meraviglia",
+        "sensations": "Sono sbalordito e pieno di stupore",
+        "message": "Questo è incredibile",
+        "purpose": "Vivere qualcosa di straordinario"
     },
     "rabbia": {
         "petal-color": "#f05b61",
@@ -39,10 +39,10 @@
         "+intense": "collera",
         "-intense": "irritazione",
         "opposite": "paura",
-        "similar-words": "Arrabbiato, Feroce",
-        "sensations": "Forte e acceso",
-        "message": "Qualcosa è in mezzo",
-        "purpose": "Dare energia per superare una barriera"
+        "similar-words": "Essere arrabbiato",
+        "sensations": "Mi sento caldo e teso",
+        "message": "C'è una barriera al mio progresso",
+        "purpose": "Muovermi attraverso un ostacolo"
     },
     "irritazione": {
         "petal-color": "#f05b61",
@@ -50,10 +50,10 @@
         "intensity": "bassa",
         "+intense": "rabbia",
         "opposite": "apprensione",
-        "similar-words": "Frustrato, Irritabile",
-        "sensations": "Leggermente agitato",
-        "message": "Qualcosa non è risolto",
-        "purpose": "Notare problemi minori"
+        "similar-words": "Fastidio",
+        "sensations": "Sono leggermente agitato",
+        "message": "Qualcosa mi sta infastidendo",
+        "purpose": "Notare cosa non mi piace"
     },
     "aspettativa": {
         "petal-color": "#f6923d",
@@ -62,10 +62,10 @@
         "+intense": "vigilanza",
         "-intense": "interesse",
         "opposite": "sorpresa",
-        "similar-words": "Curioso, Considerando",
-        "sensations": "Vigile ed esplorativo",
-        "message": "Il cambiamento sta avvenendo",
-        "purpose": "Guardare avanti, guardare cosa potrebbe venire"
+        "similar-words": "Anticipazione",
+        "sensations": "Sto aspettando per vedere cosa succederà",
+        "message": "Qualcosa sta per accadere",
+        "purpose": "Prepararmi per ciò che verrà"
     },
     "apprensione": {
         "petal-color": "#00a551",
@@ -73,10 +73,10 @@
         "intensity": "bassa",
         "+intense": "paura",
         "opposite": "irritazione",
-        "similar-words": "Preoccupato, Ansioso",
-        "sensations": "Non può rilassarsi",
-        "message": "Potrebbe esserci un problema",
-        "purpose": "Cercare potenziali rischi, non ignorare il problema"
+        "similar-words": "Preoccupazione",
+        "sensations": "Sono inquieto",
+        "message": "Qualcosa non va",
+        "purpose": "Esaminare cosa mi sta preoccupando"
     },
     "noia": {
         "petal-color": "#8973b3",
@@ -84,10 +84,10 @@
         "intensity": "bassa",
         "+intense": "disgusto",
         "opposite": "accettazione",
-        "similar-words": "Stanco, Non interessato",
-        "sensations": "Prosciugato, bassa energia",
-        "message": "Il potenziale di questa situazione non viene soddisfatto",
-        "purpose": "Riposare, imparare qualcosa di nuovo, rifocalizzarsi su ciò che posso controllare della situazione"
+        "similar-words": "Svogliatezza",
+        "sensations": "Mi sento stanco e demotivato",
+        "message": "Non trovo significato o interesse in questo",
+        "purpose": "Cercare nuove esperienze o prospettive"
     },
     "disgusto": {
         "petal-color": "#8973b3",
@@ -96,10 +96,10 @@
         "+intense": "odio",
         "-intense": "noia",
         "opposite": "fiducia",
-        "similar-words": "Sfiducia, Rifiuto",
-        "sensations": "Amaro e indesiderato",
-        "message": "Sbagliato; le regole sono violate",
-        "purpose": "Notare qualcosa di non sicuro o sbagliato"
+        "similar-words": "Avversione",
+        "sensations": "Ho un sapore amaro in bocca",
+        "message": "Questo non va bene",
+        "purpose": "Allontanarmi da ciò che è dannoso"
     },
     "distrazione": {
         "petal-color": "#0099cd",
@@ -107,10 +107,10 @@
         "intensity": "bassa",
         "+intense": "sorpresa",
         "opposite": "interesse",
-        "similar-words": "Disperso, Incerto",
-        "sensations": "Senza focus",
-        "message": "Non so cosa dare priorità",
-        "purpose": "Considerare cosa dare priorità"
+        "similar-words": "Disorientamento",
+        "sensations": "Non riesco a concentrarmi",
+        "message": "Non so dove concentrare la mia attenzione",
+        "purpose": "Prendere una pausa per rifocalizzarmi"
     },
     "estasi": {
         "petal-color": "#ffca05",
@@ -118,10 +118,10 @@
         "intensity": "alta",
         "-intense": "gioia",
         "opposite": "angoscia",
-        "similar-words": "Deliziato, Euforico",
-        "sensations": "Abbondanza di energia",
-        "message": "Questo è meglio di quanto immaginassi",
-        "purpose": "Rafforza le relazioni, aumenta la creatività, costruisce ricordi"
+        "similar-words": "Euforia",
+        "sensations": "Sento come se stessi volando",
+        "message": "Sto vivendo qualcosa di straordinario",
+        "purpose": "Celebrare e apprezzare ciò che è meraviglioso"
     },
     "paura": {
         "petal-color": "#00a551",
@@ -130,10 +130,10 @@
         "+intense": "terrore",
         "-intense": "apprensione",
         "opposite": "rabbia",
-        "similar-words": "Stressato, Spaventato",
-        "sensations": "Agitato",
-        "message": "Qualcosa a cui tengo è a rischio",
-        "purpose": "Proteggere ciò a cui teniamo"
+        "similar-words": "Spavento",
+        "sensations": "Sono in allerta; il mio cuore batte veloce",
+        "message": "Devo stare attento",
+        "purpose": "Proteggermi; evitare il pericolo"
     },
     "angoscia": {
         "petal-color": "#2983c5",
@@ -141,10 +141,10 @@
         "intensity": "alta",
         "-intense": "tristezza",
         "opposite": "estasi",
-        "similar-words": "Col cuore spezzato, Affranto",
-        "sensations": "Difficile alzarsi",
-        "message": "L'amore è perso",
-        "purpose": "Sapere cosa vogliamo veramente"
+        "similar-words": "Disperazione",
+        "sensations": "Sento un dolore schiacciante",
+        "message": "Ho perso qualcosa di veramente importante",
+        "purpose": "Piangere questa perdita"
     },
     "interesse": {
         "petal-color": "#f6923d",
@@ -152,10 +152,10 @@
         "intensity": "bassa",
         "+intense": "aspettativa",
         "opposite": "distrazione",
-        "similar-words": "Aperto, Osservando",
-        "sensations": "Lieve senso di curiosità",
-        "message": "Qualcosa di utile potrebbe venire",
-        "purpose": "Prestare attenzione, esplorare"
+        "similar-words": "Curiosità",
+        "sensations": "Sono attratto da qualcosa",
+        "message": "Voglio saperne di più",
+        "purpose": "Esplorare cose nuove"
     },
     "gioia": {
         "petal-color": "#ffca05",
@@ -164,10 +164,10 @@
         "+intense": "estasi",
         "-intense": "serenità",
         "opposite": "tristezza",
-        "similar-words": "Eccitato, Contento",
-        "sensations": "Senso di energia e possibilità",
-        "message": "La vita sta andando bene",
-        "purpose": "Accende creatività, connessione, dà energia"
+        "similar-words": "Contentezza",
+        "sensations": "Mi sento benissimo, pieno di energia",
+        "message": "Questo è così bello",
+        "purpose": "Muovermi verso ciò che mi piace"
     },
     "ripugnanza": {
         "petal-color": "#8973b3",
@@ -175,10 +175,10 @@
         "intensity": "alta",
         "-intense": "disgusto",
         "opposite": "ammirazione",
-        "similar-words": "Disturbato, Inorridito",
-        "sensations": "Bilioso e veemente",
-        "message": "I valori fondamentali sono violati",
-        "purpose": "Dare energia per bloccare qualcosa di vile"
+        "similar-words": "Detestazione",
+        "sensations": "Voglio vomitare; è insopportabile",
+        "message": "Questo è ripugnante e sbagliato",
+        "purpose": "Allontanarmi completamente da questo"
     },
     "pensierosità": {
         "petal-color": "#2983c5",
@@ -186,10 +186,10 @@
         "intensity": "bassa",
         "+intense": "tristezza",
         "opposite": "serenità",
-        "similar-words": "Triste, Infelice",
-        "sensations": "Lento e disconnesso",
-        "message": "L'amore è distante",
-        "purpose": "Ricordare persone, cose che sono importanti"
+        "similar-words": "Riflettere",
+        "sensations": "Sono tranquillo",
+        "message": "Voglio prendermi un momento per riflettere",
+        "purpose": "Assimilare i miei pensieri ed esperienze"
     },
     "collera": {
         "petal-color": "#f05b61",
@@ -197,10 +197,10 @@
         "intensity": "alta",
         "-intense": "rabbia",
         "opposite": "terrore",
-        "similar-words": "Sopraffatto, Furioso",
-        "sensations": "Cuore che batte forte, vedere rosso",
-        "message": "Sono bloccato da qualcosa di vitale",
-        "purpose": "Attaccare un ostacolo"
+        "similar-words": "Furore",
+        "sensations": "Sono incandescente, pronto a esplodere",
+        "message": "Questo ostacolo deve essere distrutto",
+        "purpose": "Usare tutta la mia forza per superare le barriere"
     },
     "tristezza": {
         "petal-color": "#2983c5",
@@ -209,10 +209,10 @@
         "+intense": "angoscia",
         "-intense": "pensierosità",
         "opposite": "gioia",
-        "similar-words": "Abbattuto, Perdita",
-        "sensations": "Pesante",
-        "message": "L'amore sta andando via",
-        "purpose": "Concentrarsi su ciò che è importante per noi"
+        "similar-words": "Malinconia",
+        "sensations": "Mi sento giù",
+        "message": "Mi manca qualcosa o qualcuno",
+        "purpose": "Elaborare la perdita"
     },
     "serenità": {
         "petal-color": "#ffca05",
@@ -220,10 +220,10 @@
         "intensity": "bassa",
         "+intense": "gioia",
         "opposite": "pensierosità",
-        "similar-words": "Calmo, Pacifico",
-        "sensations": "Rilassato, cuore aperto",
-        "message": "Sta accadendo qualcosa di essenziale, puro o significativo",
-        "purpose": "Rinnovare l'energia, fare connessioni, riflettere per imparare"
+        "similar-words": "Pace",
+        "sensations": "Mi sento soddisfatto",
+        "message": "Tutto è come dovrebbe essere",
+        "purpose": "Prendermi del tempo per riflettere e ricaricarmi"
     },
     "sorpresa": {
         "petal-color": "#0099cd",
@@ -232,10 +232,10 @@
         "+intense": "stupore",
         "-intense": "distrazione",
         "opposite": "aspettativa",
-        "similar-words": "Scioccato, Inaspettato",
-        "sensations": "Cuore che batte",
-        "message": "È successo qualcosa di nuovo",
-        "purpose": "Prestare attenzione a ciò che è proprio qui"
+        "similar-words": "Sorpreso",
+        "sensations": "Faccio un respiro profondo",
+        "message": "Non me lo aspettavo",
+        "purpose": "Notare qualcosa che non mi aspettavo"
     },
     "terrore": {
         "petal-color": "#00a551",
@@ -243,10 +243,10 @@
         "intensity": "alta",
         "-intense": "paura",
         "opposite": "collera",
-        "similar-words": "Allarmato, Pietrificato",
-        "sensations": "Difficile respirare",
-        "message": "C'è un grande pericolo",
-        "purpose": "Cercare sicurezza per sé/altri"
+        "similar-words": "Panico",
+        "sensations": "Il mio cuore batte forte; non riesco a pensare chiaramente",
+        "message": "Non sono al sicuro; sono in grave pericolo",
+        "purpose": "Mobilizzare tutte le risorse per trovare sicurezza immediata"
     },
     "fiducia": {
         "petal-color": "#8ac650",
@@ -255,10 +255,10 @@
         "+intense": "ammirazione",
         "-intense": "accettazione",
         "opposite": "disgusto",
-        "similar-words": "Accettante, Sicuro",
-        "sensations": "Caldo",
-        "message": "Questo è sicuro",
-        "purpose": "Essere aperto, connettersi, costruire alleanza"
+        "similar-words": "Sentirsi al sicuro",
+        "sensations": "Ho una sensazione di rilassamento e benessere",
+        "message": "Posso fidarmi di questa persona o situazione",
+        "purpose": "Costruire relazioni e connessioni"
     },
     "vigilanza": {
         "petal-color": "#f6923d",
@@ -266,10 +266,10 @@
         "intensity": "alta",
         "-intense": "aspettativa",
         "opposite": "stupore",
-        "similar-words": "Intenso, Concentrato",
-        "sensations": "Altamente focalizzato",
-        "message": "Sta arrivando qualcosa di grande",
-        "purpose": "Prepararsi, guardare attentamente, rimanere vigile"
+        "similar-words": "Ipervigilanza",
+        "sensations": "Sono intensamente concentrato; tutti i miei sensi sono attivi",
+        "message": "Qualcosa di importante sta per accadere",
+        "purpose": "Essere pronto ad agire immediatamente"
     },
     "aggressività": {
         "color": "#f3774f",
