@@ -52,10 +52,21 @@ for emotion in emotions:
     group = groups[0]
     print(f"✓ Found: {emotion}")
 
+    # Determine if this is an intermediate emotion
+    is_intermediate = emotion in intermediate_emotions
+
     # Add classes to the group element
     current_class = group.get('class', '')
     new_classes = f"{current_class} emotion-container {emotion}".strip()
     group.set('class', new_classes)
+
+    # For intermediate emotions, check if there's a rect (clickable target area)
+    rects = group.findall('.//{http://www.w3.org/2000/svg}rect')
+    if rects and is_intermediate:
+        target_rect = rects[0]
+        # Add classes to make the rect clickable with the emotion color
+        target_rect.set('class', f'petal-shape filled-shape {emotion}-color {emotion}')
+        print(f"  → Added classes to target rect")
 
     # Find the first path (the petal shape) and add classes
     paths = group.findall('.//{http://www.w3.org/2000/svg}path')
@@ -69,9 +80,6 @@ for emotion in emotions:
 
     # Add a class to text paths
     text_paths = paths[1:] if len(paths) > 1 else []
-
-    # Determine if this is an intermediate emotion
-    is_intermediate = emotion in intermediate_emotions
 
     for text_path in text_paths:
         current_text_class = text_path.get('class', '')
