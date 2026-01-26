@@ -120,10 +120,7 @@
     fill: #FFFFFF;
 }
 
-/* Intermediate emotion hover - change letter color on hover */
-.emotion-container:hover > g > .intermediate-letter {
-    fill: #FFFFFF;
-}
+/* Intermediate emotions keep their blended color on hover (no color change) */
 
 .intermediate-word-bounding-box {
     fill: #FFFFFF;
