@@ -50,25 +50,15 @@
 .disapprovazione-color{fill:#158ec9;}
 .sottomissione-color{fill:#45b651;}
 
-/* Intermediate emotion letter colors - apply blended colors to text */
-.intermediate-letter.aggressività{fill:#f3774f;}
-.intermediate-letter.ottimismo{fill:#fbae21;}
-.intermediate-letter.disprezzo{fill:#bd678a;}
-.intermediate-letter.soggezione{fill:#009f8f;}
-.intermediate-letter.amore{fill:#c5c82b;}
-.intermediate-letter.rimorso{fill:#597bbc;}
-.intermediate-letter.disapprovazione{fill:#158ec9;}
-.intermediate-letter.sottomissione{fill:#45b651;}
-
-/* Hover effect - slightly darken on hover to show interactivity */
-.emotion-container:hover .intermediate-letter.aggressività{fill:#d96842;}
-.emotion-container:hover .intermediate-letter.ottimismo{fill:#e09b1a;}
-.emotion-container:hover .intermediate-letter.disprezzo{fill:#a5587a;}
-.emotion-container:hover .intermediate-letter.soggezione{fill:#008a7d;}
-.emotion-container:hover .intermediate-letter.amore{fill:#aaac23;}
-.emotion-container:hover .intermediate-letter.rimorso{fill:#4c69a3;}
-.emotion-container:hover .intermediate-letter.disapprovazione{fill:#1279b3;}
-.emotion-container:hover .intermediate-letter.sottomissione{fill:#3a9f45;}
+/* Intermediate emotions: gray by default, show blended color on hover */
+.emotion-container:hover .intermediate-letter.aggressività{fill:#f3774f;}
+.emotion-container:hover .intermediate-letter.ottimismo{fill:#fbae21;}
+.emotion-container:hover .intermediate-letter.disprezzo{fill:#bd678a;}
+.emotion-container:hover .intermediate-letter.soggezione{fill:#009f8f;}
+.emotion-container:hover .intermediate-letter.amore{fill:#c5c82b;}
+.emotion-container:hover .intermediate-letter.rimorso{fill:#597bbc;}
+.emotion-container:hover .intermediate-letter.disapprovazione{fill:#158ec9;}
+.emotion-container:hover .intermediate-letter.sottomissione{fill:#45b651;}
 .cls-43{fill:#7158a4;}
 .cls-44{fill:#0071bb;}
 .cls-45{fill:#faaf40;}
@@ -154,7 +144,7 @@
 .intermediate-word-bounding-box {
     fill: #FFFFFF;
     opacity: 0;
-    pointer-events: none;
+    cursor: pointer;
 }
 
 #placeholder-text, #placeholder-title {
