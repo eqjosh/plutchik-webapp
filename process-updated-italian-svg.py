@@ -64,19 +64,26 @@ for emotion in emotions:
     rects = group.findall('.//{http://www.w3.org/2000/svg}rect')
     if rects and is_intermediate:
         target_rect = rects[0]
-        # Add classes to make the rect clickable with the emotion color
-        target_rect.set('class', f'petal-shape filled-shape {emotion}-color {emotion}')
-        print(f"  → Added classes to target rect")
+        # Add white background class for clickability (like English version)
+        target_rect.set('class', 'intermediate-word-bounding-box')
+        print(f"  → Added bounding box class to rect")
 
     # Find the first path (the petal shape) and add classes
     paths = group.findall('.//{http://www.w3.org/2000/svg}path')
     if paths:
         petal_path = paths[0]
         current_path_class = petal_path.get('class', '')
-        # Add petal-shape, filled-shape, and emotion-color classes
-        new_path_class = f"{current_path_class} petal-shape filled-shape {emotion}-color {emotion}".strip()
+
+        if is_intermediate:
+            # For intermediate emotions, first path is part of the text/graphic, not a petal
+            # It should have the intermediate-letter class and emotion color
+            new_path_class = f"{current_path_class} intermediate-letter {emotion}".strip()
+        else:
+            # For base emotions, add petal-shape, filled-shape, and emotion-color classes
+            new_path_class = f"{current_path_class} petal-shape filled-shape {emotion}-color {emotion}".strip()
+
         petal_path.set('class', new_path_class)
-        print(f"  → Added classes to petal shape")
+        print(f"  → Added classes to {'graphic path' if is_intermediate else 'petal shape'}")
 
     # Add a class to text paths
     text_paths = paths[1:] if len(paths) > 1 else []

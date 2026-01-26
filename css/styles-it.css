@@ -49,6 +49,16 @@
 .rimorso-color{fill:#597bbc;}
 .disapprovazione-color{fill:#158ec9;}
 .sottomissione-color{fill:#45b651;}
+
+/* Intermediate emotion letter colors - apply blended colors to text */
+.intermediate-letter.aggressività{fill:#f3774f;}
+.intermediate-letter.ottimismo{fill:#fbae21;}
+.intermediate-letter.disprezzo{fill:#bd678a;}
+.intermediate-letter.soggezione{fill:#009f8f;}
+.intermediate-letter.amore{fill:#c5c82b;}
+.intermediate-letter.rimorso{fill:#597bbc;}
+.intermediate-letter.disapprovazione{fill:#158ec9;}
+.intermediate-letter.sottomissione{fill:#45b651;}
 .cls-43{fill:#7158a4;}
 .cls-44{fill:#0071bb;}
 .cls-45{fill:#faaf40;}
