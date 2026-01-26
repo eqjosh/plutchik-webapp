@@ -116,7 +116,7 @@
     position: relative;
 }
 
-.emotion-container:hover > .filled-shape, .explore-shape:hover > .explore-arrow {
+.emotion-container:hover > .filled-shape, .emotion-container:hover > g > .filled-shape, .explore-shape:hover > .explore-arrow {
     fill: #FFFFFF;
 }
 
