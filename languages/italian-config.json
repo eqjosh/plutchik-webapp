@@ -1,0 +1,13 @@
+{
+  "language_code": "it",
+  "language_name": "Italian",
+  "csv_file": "translations/italian.csv",
+  "ui_csv_file": "translations/ui-italian.csv",
+  "json_file": "text-it.json",
+  "ui_json_file": "ui-text-it.json",
+  "svg_input": "svg-source/Plutchik-italiano.svg",
+  "svg_processed": "Plutchik-italiano-processed.svg",
+  "html_output": "index-it.html",
+  "css_file": "css/styles-it.css",
+  "js_file": "js/scripts-it.js"
+}

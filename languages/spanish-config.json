@@ -1,0 +1,13 @@
+{
+  "language_code": "es",
+  "language_name": "Spanish",
+  "csv_file": "translations/spanish.csv",
+  "ui_csv_file": "translations/ui-es.csv",
+  "json_file": "text-es.json",
+  "ui_json_file": "ui-text-es.json",
+  "svg_input": "svg-source/Plutchik-spanish.svg",
+  "svg_processed": "Plutchik-spanish-processed.svg",
+  "html_output": "index-es.html",
+  "css_file": "css/styles-es.css",
+  "js_file": "js/scripts-es.js"
+}
